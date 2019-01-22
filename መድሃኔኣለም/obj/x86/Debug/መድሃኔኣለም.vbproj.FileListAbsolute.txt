@@ -1,0 +1,17 @@
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\bin\Debug\መድሃኔኣለም.exe
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\bin\Debug\መድሃኔኣለም.pdb
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\bin\Debug\መድሃኔኣለም.xml
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.Form8.resources
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.Resources.resources
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.vbproj.GenerateResource.Cache
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.exe
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.xml
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.pdb
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.frmregister.resources
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.frmregister2.resources
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.frmregister3.resources
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.frmregister4.resources
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.frmregister5.resources
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.frmregister6.resources
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\obj\x86\Debug\መድሃኔኣለም.frmmain.resources
+D:\Users\Abrye\Desktop\መድሃኔኣለም\መድሃኔኣለም\bin\Debug\መድሃኔኣለም.exe.config
